@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd1ea77-5180-4b43-86bd-8618d30c3983" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fileTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/事件循环.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/读取文件的回调示例.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/事件处理.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578468390706</updated>
       <workItem from="1578468392329" duration="2219000" />
-      <workItem from="1578471602885" duration="4171000" />
+      <workItem from="1578471602885" duration="6814000" />
     </task>
     <servers />
   </component>
