@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fd1ea77-5180-4b43-86bd-8618d30c3983" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/expressTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongoDbTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysqlTest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -20,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/expressTest.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1W6S8LFD34FNqy0OukSsob4apuo" />
   <component name="ProjectLevelVcsManager">
@@ -45,6 +51,11 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../nodejs/node">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,7 +68,8 @@
       <updated>1578468390706</updated>
       <workItem from="1578468392329" duration="2219000" />
       <workItem from="1578471602885" duration="13320000" />
-      <workItem from="1578537056630" duration="15624000" />
+      <workItem from="1578537056630" duration="17140000" />
+      <workItem from="1578560980038" duration="3891000" />
     </task>
     <servers />
   </component>
