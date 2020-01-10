@@ -6,7 +6,7 @@ var fs = require('fs');
  */
 var data = '';
 // 初始化读入流,并配置 文件路径
-var readerStream = fs.createReadStream('fileTest.txt');
+var readerStream = fs.createReadStream('input.txt');
 // 设置编码
 readerStream.setEncoding('UTF8');
 // 当有可读数据时触发
@@ -32,7 +32,7 @@ console.log('程序执行完毕');
  * 写入数据,写入流
  */
 var data2 = '这是一个文件看看最后对出来的是什么王一杰将会赢取博士小姐姐过上幸福美满的生活~';
-var writeStream = fs.createWriteStream('fileTest.txt');
+var writeStream = fs.createWriteStream('input.txt');
 writeStream.write(data2,'UTF8');
 
 writeStream.end();
@@ -47,3 +47,16 @@ writeStream.on('error',function(){
 
 console.log('写入程序执行完毕');
 // 我发现这样子是会直接把目标文件中的文件进行覆盖，就是说原先的内容直接没有了
+
+
+
+/**
+ * 管道流
+ */
+var pipeFs = require('fs');
+
+var pipeReaderStream = pipeFs.createReadStream('input.txt');
+var pipeWriteStream = pipeFs.createWriteStream('output.txt');
+// 将读入流中加载的数据，放置到 写入流定义的目标文件中
+pipeReaderStream.pipe(pipeWriteStream);
+console.log('管道流程序执行完毕');
