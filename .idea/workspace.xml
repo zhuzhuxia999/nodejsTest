@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fd1ea77-5180-4b43-86bd-8618d30c3983" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mongoDbTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/mongoDbTest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysqlTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysqlTest.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +59,8 @@
       <workItem from="1578496210152" duration="240000" />
       <workItem from="1578496473347" duration="535000" />
       <workItem from="1578578942290" duration="323000" />
-      <workItem from="1578579286770" duration="4881000" />
+      <workItem from="1578579286770" duration="5149000" />
+      <workItem from="1578702869392" duration="14000" />
     </task>
     <servers />
   </component>

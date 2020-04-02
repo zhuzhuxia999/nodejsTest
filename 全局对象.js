@@ -29,4 +29,5 @@ clearImmediate(t);
  */
 var t2 = setInterval(function(){console.log('i love u three thousands')
 },10);
- clearInterval(t2);
+
+clearInterval(t2);
